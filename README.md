@@ -23,9 +23,10 @@ _just replace CHAT.wav on your ux0:data/gta3/audio
 
 
 ### Chatterbox FM full (58:04 - 1536 Kbps - 637 Mo):  
-(calls from various citizens of Liberty City)  
 
 00:00 -> 58:04  
+(calls from various citizens of Liberty City)  
+
 The following persons are credited for guest voices:  
  
 Lucien Jones, Karin Bykowski, Hank Stewart, Abbi Davis, Mellowvision.com,  
