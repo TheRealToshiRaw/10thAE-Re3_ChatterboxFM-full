@@ -10,7 +10,7 @@ Developers need to be paid and fully supported for their job,
 you have to stay legal and i am not responsible for what you do  ;)  
 
 
-# Now let's feel the first non-stop call-in taste of Chatterbox FM hosted by Lazlow Jones:  
+# Now let's feel the non-stop call-in taste of Chatterbox FM hosted by Lazlow Jones:  
 
 Radios on gta3 has changed through different iterations of the game,  
 here is the complete Chatterbox FM iconic tracklist;  
