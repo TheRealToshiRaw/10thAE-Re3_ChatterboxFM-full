@@ -1,5 +1,5 @@
 # 10thAE-Re3_ChatterboxFM-full  
-The full Chatterbox FM 109.0 station with all tracks  
+The full Chatterbox-FM 109.0 station with all tracks  
 
 (welcome back to HQ removed/censored/exclusive tracks, commercials and skits, etc..)  
 
@@ -12,10 +12,10 @@ Developers need to be paid and fully supported for their job,
 you have to stay legal and i am not responsible for what you do  ;)  
 
 
-# Now let's feel the non-stop call-in taste of Chatterbox FM hosted by Lazlow Jones:  
+# Now let's feel the non-stop call-in taste of Chatterbox-FM hosted by Lazlow Jones:  
 
 Radios on gta3 has changed through different iterations of the game,  
-here is the complete Chatterbox FM iconic tracklist;  
+here is the complete Chatterbox-FM iconic tracklist;  
 (according to https://gta.fandom.com/wiki/Radio_Stations_in_GTA_III#Chatterbox_FM  
 and https://gta.fandom.com/fr/wiki/Chatterbox_FM )  
 
