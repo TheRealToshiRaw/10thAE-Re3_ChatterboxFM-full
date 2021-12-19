@@ -1,5 +1,7 @@
-# ChatterboxFM-full
-The full Chatterbox FM station with all tracks  
+# 10thAE-Re3_ChatterboxFM-full  
+The full Chatterbox FM 109.0 station with all tracks  
+
+(welcome back to HQ removed/censored/exclusive tracks, commercials and skits, etc..)  
 
 This repository was made for the conservation of video-gaming History;  
 because Art needs to be saved for our collective remembering.  
@@ -22,9 +24,9 @@ _just replace CHAT.wav on your ux0:data/gta3/audio
 (tested and works correctly as is on any Vita version of your game.)  
 
 
-### Chatterbox FM full (58:04 - 1536 Kbps - 637 Mo):  
+### CHAT.wav full (58:04 - 1536 Kbps - 637 Mo):  
 
-00:00 -> 58:04  
+00:00 -> 58:04 :  
 (calls from various citizens of Liberty City)  
 
 The following persons are credited for guest voices:  
